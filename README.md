@@ -8,9 +8,7 @@ GETTING STARTED
 To make the 3D object you'll need to include the three.js library,
 Additionally, any CSS transforms applied to the element will be passed on to the 3D model, allowing complex objects to be placed and maniplulated using just CSS.
 
-USING THE ELEMENT
 
-Adding a model to a page is as simple as adding the element and setting its src attribute:
 
 POSITIONING MODELS
 
